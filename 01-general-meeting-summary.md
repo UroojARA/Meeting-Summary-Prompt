@@ -1,7 +1,6 @@
 # General Meeting Summary 
 People often have long meeting notes or transcripts and need a clear, professional summary of key points, decisions, and action items
 
-
 ## Prompts 
 Think like a professional meeting assistant. Read the following meeting notes and create a professional summary.
 Your summary should include:
