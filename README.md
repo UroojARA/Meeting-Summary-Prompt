@@ -1,5 +1,5 @@
 # Meeting Summary Prompt
-A collection of AI prompts for generating professional meeting summaries, minutes, and action items.
+A collection of 10 AI prompts for generating professional meeting summaries, minutes, and action items.
 
 ## Purpose
 this repository contain prompts that help users:
